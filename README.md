@@ -1,2 +1,4 @@
 # task-management
-company tasks assigned to employees
+tasks assigned to employees from managaer
+
+
